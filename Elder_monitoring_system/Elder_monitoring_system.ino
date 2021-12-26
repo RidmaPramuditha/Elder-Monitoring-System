@@ -25,7 +25,7 @@ void loop() {
     heartval++;
     if (heartval == 3)
     {
-      Serial.println("Heart");
+      Serial.println("HIGH PREASURE DETECTED");
       message();
     }
   }
