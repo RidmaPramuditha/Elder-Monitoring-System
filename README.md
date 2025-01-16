@@ -1,4 +1,4 @@
-# Elder-Monitoring-System
+# Elder Monitoring System
  Elderly monitoring and alert system
 
 ## Parts
